@@ -12,6 +12,8 @@ Environnement :
 -  Semgrep 
 -  CodeQL
 
+demo  suggeree : scan de la même base de code avec les 3 outils -- comparer les résultats , faux positifd et temps d'execution . 
+
   ## ** Ressources ** 
 
   
